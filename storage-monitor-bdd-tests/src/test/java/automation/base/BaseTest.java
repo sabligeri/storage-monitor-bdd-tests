@@ -1,5 +1,7 @@
 package automation.base;
 
+import automation.page.LoginPage;
+import automation.page.RegisterPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
