@@ -1,9 +1,9 @@
 package automation.step_definitions;
 
+import io.cucumber.java.After;
 import automation.base.BaseTest;
 import automation.page.LoginPage;
 import io.cucumber.java.en.*;
-import org.junit.After;
 import org.junit.Assert;
 
 public class LoginSteps extends BaseTest {
